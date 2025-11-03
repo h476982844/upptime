@@ -7,6 +7,8 @@ sites:
     url: https://multicolor.club
   - name: 夕月幻想俱乐部
     url: https://moon-rise.cn
+  - name: 失落的安提基特拉 
+    url: https://antikythera-admin.moon-rise.tech/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
