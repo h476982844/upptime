@@ -1,7 +1,7 @@
 [
   {
     "name": "极彩 multicolor",
-    "url": "https://multicolor.club",
+    "url": "https://multicolor.club/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/multicolor.club.ico",
     "slug": "multicolor",
     "status": "down",
@@ -37,8 +37,8 @@
   },
   {
     "name": "失落的安提基特拉",
-    "url": "https://antikythera-admin.moon-rise.tech/",
-    "icon": "https://icons.duckduckgo.com/ip3/antikythera-admin.moon-rise.tech.ico",
+    "url": "https://antikythera.moon-rise.cn/api/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/antikythera.moon-rise.cn.ico",
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
