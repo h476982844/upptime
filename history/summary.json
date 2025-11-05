@@ -1,20 +1,20 @@
 [
   {
     "name": "极彩 multicolor",
-    "url": "https://multicolor.club/api/healthz",
+    "url": "https://multicolor.club",
     "icon": "https://icons.duckduckgo.com/ip3/multicolor.club.ico",
     "slug": "multicolor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1255,
+    "timeDay": 1255,
+    "timeWeek": 1255,
+    "timeMonth": 1255,
+    "timeYear": 1255,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 1298,
-    "timeWeek": 1298,
-    "timeMonth": 1298,
-    "timeYear": 1298,
+    "time": 1259,
+    "timeDay": 1259,
+    "timeWeek": 1259,
+    "timeMonth": 1259,
+    "timeYear": 1259,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 1298,
-    "timeWeek": 1298,
-    "timeMonth": 1298,
-    "timeYear": 1298,
+    "time": 1259,
+    "timeDay": 1259,
+    "timeWeek": 1259,
+    "timeMonth": 1259,
+    "timeYear": 1259,
     "dailyMinutesDown": {}
   }
 ]
