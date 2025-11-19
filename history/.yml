@@ -1,7 +1,7 @@
-url: https://antikythera.moon-rise.cn/api/healthz
+url: https://moon-rise.cn
 status: up
 code: 200
-responseTime: 1006
-lastUpdated: 2025-11-18T23:12:58.729Z
+responseTime: 1116
+lastUpdated: 2025-11-19T23:12:53.183Z
 startTime: 2025-11-03T11:05:52.532Z
 generator: Upptime <https://github.com/upptime/upptime>
